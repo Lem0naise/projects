@@ -44,7 +44,7 @@ div {
     color: #fff;
     text-decoration: none;
     font-weight: 700;
-    font-size: 1rem;
+    font-size: 1.5rem;
   line-height: 1.5;
     font-family: "Helvetica Neue", Arial, sans-serif;
     cursor: pointer;
@@ -137,8 +137,8 @@ div.desc {
 }
 
 .button-container > a {
-    width: 100px;
-    height: 80px;
+    width: 200px;
+    height: 100px;
     float: left;
     margin: 15px;
     align-items: center;
