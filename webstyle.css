@@ -143,3 +143,7 @@ div.desc {
     margin: 15px;
     align-items: center;
 }
+
+.extrawidthbutton {
+    width:400px;
+} 
