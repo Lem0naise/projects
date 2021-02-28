@@ -119,7 +119,7 @@ div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 50%;
+    width: 35%;
     
   }
   
@@ -128,7 +128,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    width: 75%;
+    width: 100%;
     height: auto;
 }
 
